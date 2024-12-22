@@ -1,0 +1,38 @@
+{
+  "stagiaires": [
+    {
+      "numero": "1",
+      "nom": "Dupont",
+      "filiere": "Informatique"
+    },
+    {
+      "numero": "2",
+      "nom": "Martin",
+      "filiere": "Réseaux"
+    },
+    {
+      "id": "8029",
+      "numero": "3",
+      "nom": "azou",
+      "filiere": "shop"
+    },
+    {
+      "id": "549f",
+      "numero": "4",
+      "nom": "azou",
+      "filiere": "shop"
+    },
+    {
+      "id": "fbd9",
+      "numero": "5",
+      "nom": "wahid",
+      "filiere": "shop"
+    },
+    {
+      "id": "5836",
+      "numero": "6",
+      "nom": "kaddouri",
+      "filiere": "dd"
+    }
+  ]
+}
