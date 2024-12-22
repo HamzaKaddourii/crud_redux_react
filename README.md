@@ -73,3 +73,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # crud_redux_react
 add_del_rech_upd
 >>>>>>> a17f29b383a3fe9cdc595b15f2892cfc6a2d955c
+
+# Application de Gestion des Stagiaires
+Une application React pour gérer une liste de stagiaires avec les fonctionnalités CRUD (Create, Read, Update, Delete).
+## Fonctionnalités
+- ✅ Affichage de la liste des stagiaires
+ ✅ Ajout d'un nouveau stagiaire
+ ✅ Modification d'un stagiaire existant
+ ✅ Suppression d'un stagiaire
+ ✅ Recherche de stagiaires
+ ✅ Navigation entre les pages
+ ✅ Numérotation automatique des stagiaires
+## Technologies Utilisées
+- React
+ Redux pour la gestion d'état
+ React Router pour la navigation
+ Axios pour les requêtes HTTP
+ Bootstrap pour le style
+ JSON Server pour le backend
+## Installation
+1. Clonez le repository :
